@@ -1,3 +1,5 @@
+![Banner](img/banner.png)
+
 # Welcome to the page of the SysBioLabUMA research group 
 
 Presentation text
